@@ -1,0 +1,10 @@
+.rte-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.875em;
+    color: #50575e;
+    margin: 0 0 1.25em;
+    font-style: italic;
+}
+.rte-badge .rte-icon { font-style: normal; }

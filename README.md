@@ -2,6 +2,10 @@
 
 Automatically adds a "X min read" label to WordPress posts. Words-per-minute, label format, display position, and active post types are all configurable via a settings page.
 
+[![Try it live in WordPress Playground](https://img.shields.io/badge/Try%20it%20live-WordPress%20Playground-3858e9?logo=wordpress&logoColor=white&style=for-the-badge)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/jdyach/reading-time-estimator/main/_playground/blueprint.json)
+
+The live demo runs a real WordPress site in your browser with this plugin, the [Fieldnote](https://github.com/jdyach/fieldnote) block theme and sample content. It opens a long article showing its "min read" label. A short post is included for comparison. Nothing to install.
+
 ## Features
 - Auto-injects the badge before or after post content via `the_content` filter
 - `[reading_time]` shortcode for manual placement anywhere

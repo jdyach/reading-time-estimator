@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/jdyach/reading-time-estimator
  * Description:       Automatically adds a "X min read" label to posts. Configurable words-per-minute, label format, and display position via a settings page.
  * Version:           1.0.0
- * Author:            Jacqui Dyachenko
+ * Author:            Jacqui Dyach
  * Author URI:        https://jacquid.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
